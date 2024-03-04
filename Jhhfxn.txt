@@ -84,6 +84,61 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
+国际风云,#genre#
+国际-CA-CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+国际-CA-CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+国际-DE-BadenTV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+国际-半岛新闻英语,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
+国际-半岛新闻英语,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
+国际-半岛新闻阿拉伯,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+国际-RU-ALKORQAPLUS,http://32.shqiptv.org/korca/albplus/index.m3u8
+国际-RU-GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
+国际-RU-TivikomUlan-Udje,http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+国际-RU-Орск,http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+国际-RU-Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+国际-SG」亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+国际-SG」亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+国际-TU」TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
+国际-US-BloombergTV+2,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
+国际-US-BloombergTV+2,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+国际-US-NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+国际-US-WOWTV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+国际-半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+国际-朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+国际-BBCAmerica,https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+国际-DCCouncilChannel.htm,http://video.oct.dc.gov/out/u/15_12.m3u8
+国际-RTNews,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+韩国-JobPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+韩国-Arirang阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韩国-KBS1,https://tv.iill.top/kbs/11&p=0
+韩国-KBS2,https://tv.iill.top/kbs/12&p=0
+韩国-BBS불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+韩国-CTS基督教기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+韩国-EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国-EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+韩国-EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+韩国-Job Plus tv,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
+韩国-GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+韩国-Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+韩国-KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国-KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+韩国-KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+韩国-KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+韩国-KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+韩国-KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+韩国-KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+韩国-KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+韩国-KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国-Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+韩国-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+韩国-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国-NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+韩国-국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+日本-日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 电影频道,#genre#
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
